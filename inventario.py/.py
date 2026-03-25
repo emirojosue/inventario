@@ -38,10 +38,7 @@ while True:
         print("Error: ingrese un número entero válido.")
 
 
-# -------------------------------
-# Calcular costo total
-# -------------------------------
-costo_total = precio * cantidad
+
 
 
 # -------------------------------
@@ -50,11 +47,5 @@ costo_total = precio * cantidad
 print("Producto:", nombre, "| Precio:", precio, "| Cantidad:", cantidad, "| Total:", costo_total)
 
 
-# -------------------------------
-# Descripción del programa
-# -------------------------------
-# Este programa solicita al usuario el nombre, precio y cantidad de un producto.
-# Valida que los datos ingresados sean correctos.
-# Luego calcula el costo total multiplicando precio por cantidad.
-# Finalmente, muestra la información en consola de forma clara.
+
 
